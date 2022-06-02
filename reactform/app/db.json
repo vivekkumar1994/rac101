@@ -1,0 +1,11 @@
+{
+  "employee" :[
+
+      {"Id":101,"Name":"Abhinav","Location":"Bangalore","Salary":12345,"dept":"acoount"},
+    
+      {"Id":102,"Name":"Abhishek","Location":"Chennai","Salary":23456,"dept":"web developers"},
+    
+      {"Id":103,"Name":"Ajay","Location":"Bangalore","Salary":34567,"dept":"software engineers"}
+    
+  ]
+}
